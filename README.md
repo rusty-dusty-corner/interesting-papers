@@ -8,6 +8,7 @@
 
 * [A Complete Guide to LLMs-based Autonomous Agents (Part I)](https://medium.com/the-modern-scientist/a-complete-guide-to-llms-based-autonomous-agents-part-i-69515c016792)
 
-# also about some interesting repos
+# also about some interesting repos, site links
 
 * [The original BabyAGI from March 2023 introduced task planning as a method for developing autonomous agents](https://github.com/yoheinakajima/babyagi)
+* [BabyBeeAGI: Task Management and Functionality Expansion on top of BabyAGI](https://yoheinakajima.com/babybeeagi-task-management-and-functionality-expansion-on-top-of-babyagi/)
