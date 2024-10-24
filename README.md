@@ -15,3 +15,4 @@
 * [The original BabyAGI from March 2023 introduced task planning as a method for developing autonomous agents](https://github.com/yoheinakajima/babyagi)
 * [BabyBeeAGI: Task Management and Functionality Expansion on top of BabyAGI](https://yoheinakajima.com/babybeeagi-task-management-and-functionality-expansion-on-top-of-babyagi/)
 * [Letta (previously MemGPT) is an open source framework for building stateful LLM applications. You can use Letta to build stateful agents with advanced reasoning capabilities and transparent long-term memory](https://github.com/cpacker/MemGPT)
+* [MiniAGI is a simple autonomous agent compatible with GPT-3.5-Turbo and GPT-4. It combines a robust prompt with a minimal set of tools, chain-of-thoughts, and short-term memory with summarization. It is also capable of inner monologue and self-criticism](https://github.com/muellerberndt/mini-agi)
