@@ -24,3 +24,4 @@
 * [MiniAGI is a simple autonomous agent compatible with GPT-3.5-Turbo and GPT-4. It combines a robust prompt with a minimal set of tools, chain-of-thoughts, and short-term memory with summarization. It is also capable of inner monologue and self-criticism](https://github.com/muellerberndt/mini-agi)
 * [Teenage-AGI, Inspired by several Auto-GPT-related Projects (predominantly BabyAGI)](https://github.com/seanpixel/Teenage-AGI/blob/main/README.md#experiments)
 * [WorkGPT is an agent framework in a similar fashion to AutoGPT or LangChain](https://github.com/team-openpm/workgpt)
+* [Awesome Agents is a curated list of open source AI agents](https://github.com/kyrolabs/awesome-agents)
