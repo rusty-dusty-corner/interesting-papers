@@ -7,7 +7,9 @@
   * [Lemon Agent is a standalone supervised Plan and Solve Agent](https://github.com/felixbrock/lemon-agent)
 * [Large Language Models are Superpositions of All Characters: Attaining Arbitrary Role-play via Self-Alignment](https://arxiv.org/pdf/2401.12474)
 * [LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models](https://arxiv.org/pdf/2310.05736)
-* 
+* [Improving Factuality and Reasoning in Language Models through Multiagent Debate](https://arxiv.org/abs/2305.14325)
+  * [Project](https://composable-models.github.io/llm_debate/)
+  * [Github repo](https://github.com/composable-models/llm_multiagent_debate?tab=readme-ov-file)
 
 # medium posts, other sites
 
@@ -20,3 +22,5 @@
 * [BabyBeeAGI: Task Management and Functionality Expansion on top of BabyAGI](https://yoheinakajima.com/babybeeagi-task-management-and-functionality-expansion-on-top-of-babyagi/)
 * [Letta (previously MemGPT) is an open source framework for building stateful LLM applications. You can use Letta to build stateful agents with advanced reasoning capabilities and transparent long-term memory](https://github.com/cpacker/MemGPT)
 * [MiniAGI is a simple autonomous agent compatible with GPT-3.5-Turbo and GPT-4. It combines a robust prompt with a minimal set of tools, chain-of-thoughts, and short-term memory with summarization. It is also capable of inner monologue and self-criticism](https://github.com/muellerberndt/mini-agi)
+* [Teenage-AGI, Inspired by several Auto-GPT-related Projects (predominantly BabyAGI)](https://github.com/seanpixel/Teenage-AGI/blob/main/README.md#experiments)
+* [WorkGPT is an agent framework in a similar fashion to AutoGPT or LangChain](https://github.com/team-openpm/workgpt)
