@@ -11,6 +11,7 @@
   * [Project](https://composable-models.github.io/llm_debate/)
   * [Github repo](https://github.com/composable-models/llm_multiagent_debate?tab=readme-ov-file)
 * [Few-shot Fine-tuning vs. In-context Learning: A Fair Comparison and Evaluation](https://arxiv.org/pdf/2305.16938)
+* [Better Zero-Shot Reasoning with Self-Adaptive Prompting](https://arxiv.org/pdf/2305.14106)
 
 # medium posts, other sites
 
