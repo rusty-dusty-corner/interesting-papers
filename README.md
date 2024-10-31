@@ -13,6 +13,7 @@
 * [Few-shot Fine-tuning vs. In-context Learning: A Fair Comparison and Evaluation](https://arxiv.org/pdf/2305.16938)
 * [Better Zero-Shot Reasoning with Self-Adaptive Prompting](https://arxiv.org/pdf/2305.14106)
 * [FNet: Mixing Tokens with Fourier Transforms](https://arxiv.org/pdf/2105.03824)
+* [TransformerFAM: Feedback attention is working memory](https://arxiv.org/pdf/2404.09173)
 
 # medium posts, other sites
 
