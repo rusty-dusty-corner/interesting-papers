@@ -15,6 +15,7 @@
 * [FNet: Mixing Tokens with Fourier Transforms](https://arxiv.org/pdf/2105.03824)
 * [TransformerFAM: Feedback attention is working memory](https://arxiv.org/pdf/2404.09173)
 * [HiPPO: Recurrent Memory with Optimal Polynomial Projections](https://arxiv.org/pdf/2008.07669)
+* [Reducing Activation Recomputation in Large Transformer Models](https://arxiv.org/pdf/2205.05198)
 
 # medium posts, other sites
 
