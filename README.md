@@ -17,6 +17,7 @@
 * [HiPPO: Recurrent Memory with Optimal Polynomial Projections](https://arxiv.org/pdf/2008.07669)
 * [Reducing Activation Recomputation in Large Transformer Models](https://arxiv.org/pdf/2205.05198)
 * [Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model](https://arxiv.org/pdf/2401.09417)
+* [More Agents Is All You Need](https://arxiv.org/pdf/2402.05120)
 
 # medium posts, other sites
 
