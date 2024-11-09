@@ -21,6 +21,7 @@
 * [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/pdf/2312.00752)
 * [PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation](https://arxiv.org/pdf/2405.02580)
 * [KAN: Kolmogorov–Arnold Networks](https://arxiv.org/pdf/2404.19756)
+* [xLSTM: Extended Long Short-Term Memory](https://arxiv.org/pdf/2405.04517)
 
 # medium posts, other sites
 
