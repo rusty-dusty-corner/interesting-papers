@@ -22,6 +22,7 @@
 * [PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation](https://arxiv.org/pdf/2405.02580)
 * [KAN: Kolmogorov–Arnold Networks](https://arxiv.org/pdf/2404.19756)
 * [xLSTM: Extended Long Short-Term Memory](https://arxiv.org/pdf/2405.04517)
+* [HGRN2: Gated Linear RNNs with State Expansion](https://arxiv.org/pdf/2404.07904)
 
 # medium posts, other sites
 
